@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-e15c443f00.acmilgh.cn/sitemap.xml

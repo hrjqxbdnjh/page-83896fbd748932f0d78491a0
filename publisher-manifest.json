@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "4967cb484f0928ff9310b3f3",
+  "owner": "hrjqxbdnjh",
+  "repo": "page-83896fbd748932f0d78491a0",
+  "title": "云画",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "83896fbd748932f0d78491a0",
+      "a": "云画",
+      "b": "",
+      "entity": "云画",
+      "brand": "云画",
+      "separator": "",
+      "path": "index.html",
+      "hash": "a9649b214c9fe24478b80a5331a5e9998ae4f81eb05117be18b25e4cd524d048",
+      "content": {
+        "keyword1": "云画",
+        "keyword2": "",
+        "primary_entity": "云画",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "云画提供多设备网络连接配置与流量配额方案。线路按需分发，规则分流明确，开箱即用。",
+          "AI_DESCRIPTION": "云画提供多设备网络连接配置与流量配额方案。线路按需分发，规则分流明确，开箱即用。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif;background-color: #f7f5f2;color: #2b1d16;line-height: 1.6;-webkit-font-smoothing: antialiased}\na {color: inherit;text-decoration: none}\nmain {width: 100%;max-width: 1240px;margin: 0 auto;padding: 0 24px 80px 24px}\n.hero {min-height: 84vh;display: flex;flex-direction: column;justify-content: center;padding: 80px 0 60px 0}\n.hero-column {max-width: 480px}\n.hero-tag {display: inline-block;font-size: 13px;letter-spacing: 0.1em;text-transform: uppercase;font-weight: 700;color: #2b1d16;background-color: #bbf0dc;padding: 4px 12px;border-radius: 999px;margin-bottom: 28px}\nh1 {font-size: 52px;font-weight: 800;line-height: 1.15;color: #2b1d16;letter-spacing: -0.02em;margin-bottom: 24px}\n.hero-desc {font-size: 18px;color: #634b3f;margin-bottom: 36px;font-weight: 400}\n.hero-nav {display: flex;flex-wrap: wrap;gap: 12px}\n.hero-nav a {display: inline-block;font-size: 14px;font-weight: 600;padding: 10px 18px;border-radius: 999px;background-color: #ffffff;color: #2b1d16;box-shadow: 0 4px 14px rgba(43, 29, 22, 0.06);border: 1px solid rgba(43, 29, 22, 0.08)}\n.hero-nav a:hover {background-color: #2b1d16;color: #e8f8f2}\n.section {padding: 60px 0}\n.section-header {margin-bottom: 32px;max-width: 600px}\n.section-tag {font-size: 12px;letter-spacing: 0.12em;color: #388a70;font-weight: 700;text-transform: uppercase;margin-bottom: 8px}\nh2 {font-size: 32px;font-weight: 800;color: #2b1d16;line-height: 1.25;margin-bottom: 12px}\n.section-sub {font-size: 15px;color: #634b3f}\n.plans-stack {display: flex;flex-direction: column;gap: 24px;max-width: 860px}\n.plan-card {background: #ffffff;border-radius: 28px;padding: 36px 40px;box-shadow: 0 16px 40px rgba(43, 29, 22, 0.05);display: flex;flex-direction: column;gap: 24px;position: relative;border: 1px solid rgba(43, 29, 22, 0.04)}\n.plan-card.featured {background: linear-gradient(180deg, #ffffff 0%, #f4faf7 100%);border: 1px solid #7ae0be}\n.badge {position: absolute;top: 32px;right: 36px;background-color: #2b1d16;color: #7ae0be;font-size: 12px;font-weight: 700;padding: 4px 12px;border-radius: 999px}\n.plan-head {display: flex;flex-wrap: wrap;justify-content: space-between;align-items: baseline;gap: 16px;border-bottom: 1px solid #f0eae4;padding-bottom: 20px}\nh3.plan-name {font-size: 24px;font-weight: 700;color: #2b1d16}\n.plan-pricing {display: flex;align-items: baseline;gap: 12px}\n.price-main {font-size: 32px;font-weight: 800;color: #2b1d16}\n.price-sub {font-size: 14px;color: #388a70;font-weight: 600}\n.plan-features {list-style: none;display: grid;grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));gap: 14px}\n.plan-features li {font-size: 14px;color: #4a382f;display: flex;align-items: center;gap: 8px}\n.plan-features li::before {content: \"\";display: inline-block;width: 6px;height: 6px;border-radius: 50%;background-color: #52c4a0;flex-shrink: 0}\n.plan-footer {display: flex;align-items: center;justify-content: flex-end}\n.btn-select {display: inline-block;background-color: #2b1d16;color: #e8f8f2;font-size: 14px;font-weight: 600;padding: 10px 24px;border-radius: 999px}\n.btn-select:hover {background-color: #388a70;color: #ffffff}\n.setup-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 20px;max-width: 980px}\n.setup-card {background: #ffffff;border-radius: 24px;padding: 30px;box-shadow: 0 12px 32px rgba(43, 29, 22, 0.04);border: 1px solid rgba(43, 29, 22, 0.04)}\n.setup-num {font-size: 14px;font-weight: 800;color: #388a70;margin-bottom: 12px}\n.setup-card h4 {font-size: 18px;font-weight: 700;margin-bottom: 8px;color: #2b1d16}\n.setup-card p {font-size: 14px;color: #634b3f;line-height: 1.6}\n.client-box {background: #ffffff;border-radius: 28px;padding: 36px 40px;box-shadow: 0 16px 40px rgba(43, 29, 22, 0.05);max-width: 860px;border: 1px solid rgba(43, 29, 22, 0.04)}\n.client-box p {font-size: 15px;color: #634b3f;margin-bottom: 20px}\n.platform-tags {display: flex;flex-wrap: wrap;gap: 10px}\n.platform-pill {font-size: 13px;font-weight: 600;padding: 6px 14px;border-radius: 999px;background-color: #f0eae4;color: #2b1d16}\n.faq-list {display: flex;flex-direction: column;gap: 16px;max-width: 860px}\ndetails.faq-item {background: #ffffff;border-radius: 20px;padding: 20px 24px;box-shadow: 0 8px 24px rgba(43, 29, 22, 0.04);border: 1px solid rgba(43, 29, 22, 0.04);cursor: pointer}\ndetails.faq-item[open] {box-shadow: 0 12px 32px rgba(43, 29, 22, 0.07)}\nsummary {font-size: 16px;font-weight: 700;color: #2b1d16;outline: none;list-style: none;display: flex;justify-content: space-between;align-items: center}\nsummary::-webkit-details-marker {display: none}\nsummary::after {content: \"+\";font-size: 18px;color: #388a70;font-weight: 700;margin-left: 12px}\ndetails[open] summary::after {content: \"–\"}\n.faq-content {margin-top: 14px;font-size: 14px;color: #634b3f;line-height: 1.6;border-top: 1px solid #f7f5f2;padding-top: 12px}\nfooter {margin-top: 60px;padding-top: 24px;border-top: 1px solid #e7ded7;display: flex;flex-wrap: wrap;justify-content: space-between;align-items: center;gap: 16px;font-size: 13px;color: #8c7366}\n@media (max-width: 768px) {\n  h1 {font-size: 38px}\n  .plan-card {padding: 24px}\n  .badge {position: static;display: inline-block;margin-bottom: 8px}\n  .client-box {padding: 24px}\n}\n</style><main>\n  <header class=\"hero\">\n    <div class=\"hero-column\">\n      <span class=\"hero-tag\">网络节点与分流管理</span>\n      <h1>云画</h1>\n      <p class=\"hero-desc\">规则分流。多端同步。轻量直达。</p>\n      <nav class=\"hero-nav\">\n        <a href=\"#plans\">订阅方案</a>\n        <a href=\"#setup\">配置指引</a>\n        <a href=\"#clients\">软件支持</a>\n        <a href=\"#faq\">常见答疑</a>\n      </nav>\n    </div>\n  </header>\n\n  <section class=\"section\" id=\"plans\">\n    <div class=\"section-header\">\n      <p class=\"section-tag\">Service Plans</p>\n      <h2>订阅方案</h2>\n      <p class=\"section-sub\">选择适合你的流量配额与在线设备数。</p>\n    </div>\n\n    <div class=\"plans-stack\">\n      <article class=\"plan-card\">\n        <div class=\"plan-head\">\n          <h3 class=\"plan-name\">基础版</h3>\n          <div class=\"plan-pricing\">\n            <span class=\"price-main\">¥15/月</span>\n            <span class=\"price-sub\">按年付仅需 ¥150/年</span>\n          </div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n        <div class=\"plan-footer\">\n          <a href=\"#\" class=\"btn-select\">选购基础版</a>\n        </div>\n      </article>\n\n      <article class=\"plan-card featured\">\n        <span class=\"badge\">推荐配置</span>\n        <div class=\"plan-head\">\n          <h3 class=\"plan-name\">旗舰版</h3>\n          <div class=\"plan-pricing\">\n            <span class=\"price-main\">¥35/月</span>\n            <span class=\"price-sub\">按年付仅需 ¥350/年</span>\n          </div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n        <div class=\"plan-footer\">\n          <a href=\"#\" class=\"btn-select\">选购旗舰版</a>\n        </div>\n      </article>\n\n      <article class=\"plan-card\">\n        <div class=\"plan-head\">\n          <h3 class=\"plan-name\">团队版</h3>\n          <div class=\"plan-pricing\">\n            <span class=\"price-main\">¥85/月</span>\n            <span class=\"price-sub\">按年付仅需 ¥850/年</span>\n          </div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n        <div class=\"plan-footer\">\n          <a href=\"#\" class=\"btn-select\">选购团队版</a>\n        </div>\n      </article>\n    </div>\n  </section>\n\n  <section class=\"section\" id=\"setup\">\n    <div class=\"section-header\">\n      <p class=\"section-tag\">Quick Start</p>\n      <h2>使用步骤</h2>\n      <p class=\"section-sub\">三步完成节点订阅与协议托管。</p>\n    </div>\n\n    <div class=\"setup-grid\">\n      <div class=\"setup-card\">\n        <div class=\"setup-num\">STEP 01</div>\n        <h4>获取订阅链接</h4>\n        <p>在个人中心选择已启用的方案，复制专属订阅托管地址或配置参数。</p>\n      </div>\n      <div class=\"setup-card\">\n        <div class=\"setup-num\">STEP 02</div>\n        <h4>导入支持客户端</h4>\n        <p>粘贴链接至对应平台的网络工具中，同步获取最新节点列表与规则。</p>\n      </div>\n      <div class=\"setup-card\">\n        <div class=\"setup-num\">STEP 03</div>\n        <h4>启用分流策略</h4>\n        <p>选择推荐节点并开启自动分流模式，按需分配国内外流量走向。</p>\n      </div>\n    </div>\n  </section>\n\n  <section class=\"section\" id=\"clients\">\n    <div class=\"section-header\">\n      <p class=\"section-tag\">Compatibility</p>\n      <h2>软件生态</h2>\n      <p class=\"section-sub\">支持常见平台主流内核与协议规则。</p>\n    </div>\n\n    <div class=\"client-box\">\n      <p>云画支持通用网络代理协议，可配合常见第三方开源客户端直接导入配置，包含桌面端与移动端。</p>\n      <div class=\"platform-tags\">\n        <span class=\"platform-pill\">macOS</span>\n        <span class=\"platform-pill\">Windows</span>\n        <span class=\"platform-pill\">iOS</span>\n        <span class=\"platform-pill\">Android</span>\n        <span class=\"platform-pill\">Linux</span>\n        <span class=\"platform-pill\">路由器系统</span>\n      </div>\n    </div>\n  </section>\n\n  <section class=\"section\" id=\"faq\">\n    <div class=\"section-header\">\n      <p class=\"section-tag\">Questions</p>\n      <h2>常见答疑</h2>\n      <p class=\"section-sub\">关于配额、设备与订阅重置的说明。</p>\n    </div>\n\n    <div class=\"faq-list\">\n      <details class=\"faq-item\">\n        <summary>每月流量何时完成重置？</summary>\n        <div class=\"faq-content\">\n          流量配额按账单周期结算。自订购之日起每满一个月自动重置流量，未用完流量不累计至下个周期。\n        </div>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>如何计算同时在线设备数？</summary>\n        <div class=\"faq-content\">\n          系统以同一时刻活跃连接的公网 IP 及设备标识为统计依据。超过套餐上限时新连接将暂时排队或中断。\n        </div>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>节点列表无法更新如何处理？</summary>\n        <div class=\"faq-content\">\n          请检查本地网络连通性。确认客户端订阅地址无多余空格，必要时开启“允许不安全证书”或更换分流测试节点。\n        </div>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>支持不同平台同时使用吗？</summary>\n        <div class=\"faq-content\">\n          支持。订阅链接可在多个已安装兼容客户端的设备中导入，只要并发在线数不超过方案额度即可。\n        </div>\n      </details>\n    </div>\n  </section>\n\n  <footer>\n    <div>© 云画. 保留所有权利.</div>\n    <div>纯静态配置指引与参考文档</div>\n  </footer>\n</main>",
+          "hash": "98c52665f9971cc9ff0ece77b15b24136d0e9a4ce6e6541cf7b8e0ff21790014",
+          "seo": {
+            "title": "云画 - 网络接入与流量分发配置指南",
+            "keywords": "云画, 云画订阅, 线路配置, 网络节点, 流量配额",
+            "description": "云画提供多设备网络连接配置与流量配额方案。线路按需分发，规则分流明确，开箱即用。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "5798",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "9 深棕配薄荷",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "acmilgh.cn",
+    "host": "p-e15c443f00.acmilgh.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "34669ba907e80373249037a1966147ff5209526e0cb5abfefeb7f9c4d713dcac",
+    "sitemap.xml": "00676dd6085c53a7e5e889460ae41872a77ac1bfadd90bd0d5eecf5b3c9247d6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "53bdd66c206c8774ea4ae9731c4f9074d57855bb243e86ef9542b91bea9a9d7b",
+    "robots.txt": "7f8ab6761dd3fc46ec7b96a29c76c098438f37f757c1c17f99f585385af26a02",
+    "bb96f696960f3f8d3f04f637040e6d0e.txt": "a1cc5cad2374b8c6154f3f3969e94af57804d386682797fbd34d07c4291590ba"
+  },
+  "revision": "933634e18ff8af4447023723b8820d548339df622c6c06fd8ab939a771830280"
+}
